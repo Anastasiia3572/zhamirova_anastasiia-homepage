@@ -1,2 +1,2 @@
-# zhamirova_anastasiia-homepage
+# Zhamirova_anastasiia-Homepage
 My very own personal website. Basically this is just a résumé.
